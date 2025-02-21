@@ -9,7 +9,7 @@ exctract valuable insights and answer various business question based on the dat
 provides a detailes accounts of the project's objectives, business problems, solutions, findings, and conclusions.
 
 
-## Objective
+##Objective
 
 - Analyze the distribution of content types (movies vs TV shows) .
 - Identify the most common ratings for movies and TV shows.
